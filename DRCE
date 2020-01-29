@@ -1,0 +1,7 @@
+public class Add
+{
+@Test
+public void add()
+  {
+  }
+}
