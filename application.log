@@ -1,0 +1,10 @@
+2020-01-17 15:27:09,782  INFO [main] prgm1:25 - -------Browser Opened----------
+2020-01-17 15:27:10,949  INFO [main] prgm1:27 - -------url entered------------
+2020-01-17 15:27:11,294  INFO [main] prgm1:29 - ----------username entered-----------
+2020-01-17 15:27:11,510  INFO [main] prgm1:31 - ---------password entered--------
+2020-01-17 15:27:12,391  INFO [main] prgm1:37 - ----------Browser closed-------
+2020-01-17 15:29:35,870  INFO [main] prgm1:25 - -------Browser Opened----------
+2020-01-17 15:29:37,506  INFO [main] prgm1:27 - -------url entered------------
+2020-01-17 15:29:37,789  INFO [main] prgm1:29 - ----------username entered-----------
+2020-01-17 15:29:38,081  INFO [main] prgm1:31 - ---------password entered--------
+2020-01-17 15:29:38,532  INFO [main] prgm1:37 - ----------Browser closed-------
